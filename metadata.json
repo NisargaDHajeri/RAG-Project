@@ -1,0 +1,5 @@
+{
+  "name": "RAG Context-Aware Chatbot",
+  "description": "A context-aware question-answering chatbot using a Retrieval-Augmented Generation (RAG) architecture. It provides answers strictly based on an internal knowledge base, ensuring responses are fact-based and domain-specific.",
+  "requestFramePermissions": []
+}
